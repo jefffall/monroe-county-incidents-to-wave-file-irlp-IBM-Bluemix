@@ -1,0 +1,243 @@
+Sat Mar  5 00:00:03 EST 2016 calling cwtime.pl. Forcekey
+Sat Mar  5 00:00:03 EST 2016 playing Playing CW for hour 0000
+Sat Mar  5 00:00:09 EST 2016 played Played CW for hour 0000
+Sat Mar  5 00:00:09 EST 2016 called cwtime. forceunkey
+Sat Mar  5 00:30:02 EST 2016 calling voice_id_play.pl. forcekey.  
+Sat Mar  5 00:30:03 EST 2016 playing /usr/bin/play /home/w2tr/voiceidfiles/Computer_Identify_Please.wav
+Sat Mar  5 00:30:14 EST 2016 played /usr/bin/play /home/w2tr/voiceidfiles/Computer_Identify_Please.wav
+Sat Mar  5 00:30:14 EST 2016 called voice_id_play.pl. forceunkey
+Sat Mar  5 00:45:02 EST 2016 calling weather weather.pl. forcekey  
+Sat Mar  5 00:45:04 EST 2016 playing /usr/bin/play /home/irlp/jfall/weather/rochweather.wav
+Sat Mar  5 00:45:11 EST 2016 played /usr/bin/play /home/irlp/jfall/weather/rochweather.wav
+Sat Mar  5 00:45:11 EST 2016 called weather weather.pl. forceunkey
+Sat Mar  5 01:00:02 EST 2016 calling cwtime.pl. Forcekey
+Sat Mar  5 01:00:02 EST 2016 playing Playing CW for hour 0100
+Sat Mar  5 01:00:08 EST 2016 played Played CW for hour 0100
+Sat Mar  5 01:00:08 EST 2016 called cwtime. forceunkey
+Sat Mar  5 01:26:29 EST 2016 playing alertsounds/alert3.wav
+Sat Mar  5 01:26:31 EST 2016 played alertsounds/alert3.wav
+Sat Mar  5 01:26:31 EST 2016 playing /home/irlp/jfall/monroecounty/incident.wav
+Sat Mar  5 01:26:46 EST 2016 played /home/irlp/jfall/monroecounty/incident.wav
+Sat Mar  5 01:30:02 EST 2016 calling voice_id_play.pl. forcekey.  
+Sat Mar  5 01:30:03 EST 2016 playing /usr/bin/play /home/w2tr/voiceidfiles/You_Are_Now_Monitoring_The_WR2AHL_Repeater_This_Is_W2EUP.wav
+Sat Mar  5 01:30:13 EST 2016 played /usr/bin/play /home/w2tr/voiceidfiles/You_Are_Now_Monitoring_The_WR2AHL_Repeater_This_Is_W2EUP.wav
+Sat Mar  5 01:30:13 EST 2016 called voice_id_play.pl. forceunkey
+Sat Mar  5 01:45:02 EST 2016 calling weather weather.pl. forcekey  
+Sat Mar  5 01:45:04 EST 2016 playing /usr/bin/play /home/irlp/jfall/weather/rochweather.wav
+Sat Mar  5 01:45:10 EST 2016 played /usr/bin/play /home/irlp/jfall/weather/rochweather.wav
+Sat Mar  5 01:45:10 EST 2016 called weather weather.pl. forceunkey
+Sat Mar  5 01:55:29 EST 2016 playing alertsounds/alert3.wav
+Sat Mar  5 01:55:32 EST 2016 played alertsounds/alert3.wav
+Sat Mar  5 01:55:32 EST 2016 playing /home/irlp/jfall/monroecounty/incident.wav
+Sat Mar  5 01:55:46 EST 2016 played /home/irlp/jfall/monroecounty/incident.wav
+Sat Mar  5 02:00:02 EST 2016 calling cwtime.pl. Forcekey
+Sat Mar  5 02:00:02 EST 2016 playing Playing CW for hour 0200
+Sat Mar  5 02:00:08 EST 2016 played Played CW for hour 0200
+Sat Mar  5 02:00:08 EST 2016 called cwtime. forceunkey
+Sat Mar  5 02:30:02 EST 2016 calling voice_id_play.pl. forcekey.  
+Sat Mar  5 02:30:02 EST 2016 playing /usr/bin/play /home/w2tr/voiceidfiles/K2RJ_This_Is_WR2AHL_Repeater.wav
+Sat Mar  5 02:30:09 EST 2016 played /usr/bin/play /home/w2tr/voiceidfiles/K2RJ_This_Is_WR2AHL_Repeater.wav
+Sat Mar  5 02:30:09 EST 2016 called voice_id_play.pl. forceunkey
+Sat Mar  5 02:45:02 EST 2016 calling weather weather.pl. forcekey  
+Sat Mar  5 02:45:04 EST 2016 playing /usr/bin/play /home/irlp/jfall/weather/rochweather.wav
+Sat Mar  5 02:45:11 EST 2016 played /usr/bin/play /home/irlp/jfall/weather/rochweather.wav
+Sat Mar  5 02:45:11 EST 2016 called weather weather.pl. forceunkey
+Sat Mar  5 02:55:30 EST 2016 playing alertsounds/alert3.wav
+Sat Mar  5 02:55:32 EST 2016 played alertsounds/alert3.wav
+Sat Mar  5 02:55:32 EST 2016 playing /home/irlp/jfall/monroecounty/incident.wav
+Sat Mar  5 02:55:47 EST 2016 played /home/irlp/jfall/monroecounty/incident.wav
+Sat Mar  5 03:00:02 EST 2016 calling cwtime.pl. Forcekey
+Sat Mar  5 03:00:02 EST 2016 playing Playing CW for hour 0300
+Sat Mar  5 03:00:09 EST 2016 played Played CW for hour 0300
+Sat Mar  5 03:00:09 EST 2016 called cwtime. forceunkey
+Sat Mar  5 03:30:02 EST 2016 calling voice_id_play.pl. forcekey.  
+Sat Mar  5 03:30:03 EST 2016 playing /usr/bin/play /home/w2tr/voiceidfiles/WA2MYG_This_Is_WR2AHL_Repeater.wav
+Sat Mar  5 03:30:10 EST 2016 played /usr/bin/play /home/w2tr/voiceidfiles/WA2MYG_This_Is_WR2AHL_Repeater.wav
+Sat Mar  5 03:30:10 EST 2016 called voice_id_play.pl. forceunkey
+Sat Mar  5 03:45:02 EST 2016 calling weather weather.pl. forcekey  
+Sat Mar  5 03:45:04 EST 2016 playing /usr/bin/play /home/irlp/jfall/weather/rochweather.wav
+Sat Mar  5 03:45:11 EST 2016 played /usr/bin/play /home/irlp/jfall/weather/rochweather.wav
+Sat Mar  5 03:45:11 EST 2016 called weather weather.pl. forceunkey
+Sat Mar  5 04:00:02 EST 2016 calling cwtime.pl. Forcekey
+Sat Mar  5 04:00:02 EST 2016 playing Playing CW for hour 0400
+Sat Mar  5 04:00:08 EST 2016 played Played CW for hour 0400
+Sat Mar  5 04:00:08 EST 2016 called cwtime. forceunkey
+Sat Mar  5 04:30:02 EST 2016 calling voice_id_play.pl. forcekey.  
+Sat Mar  5 04:30:02 EST 2016 playing /usr/bin/play /home/w2tr/voiceidfiles/K2YA_This_Is_WR2AHL.wav
+Sat Mar  5 04:30:10 EST 2016 played /usr/bin/play /home/w2tr/voiceidfiles/K2YA_This_Is_WR2AHL.wav
+Sat Mar  5 04:30:10 EST 2016 called voice_id_play.pl. forceunkey
+Sat Mar  5 04:45:02 EST 2016 calling weather weather.pl. forcekey  
+Sat Mar  5 04:45:04 EST 2016 playing /usr/bin/play /home/irlp/jfall/weather/rochweather.wav
+Sat Mar  5 04:45:11 EST 2016 played /usr/bin/play /home/irlp/jfall/weather/rochweather.wav
+Sat Mar  5 04:45:11 EST 2016 called weather weather.pl. forceunkey
+Sat Mar  5 05:00:02 EST 2016 calling cwtime.pl. Forcekey
+Sat Mar  5 05:00:02 EST 2016 playing Playing CW for hour 0500
+Sat Mar  5 05:00:07 EST 2016 played Played CW for hour 0500
+Sat Mar  5 05:00:07 EST 2016 called cwtime. forceunkey
+Sat Mar  5 05:15:02 EST 2016  calling forecast forecast.pl. forcekey.  
+Sat Mar  5 05:15:06 EST 2016 playing /usr/bin/play /home/irlp/jfall/weatherforecast/weatherforecast.wav
+Sat Mar  5 05:15:18 EST 2016 played /usr/bin/play /home/irlp/jfall/weatherforecast/weatherforecast.wav
+Sat Mar  5 05:15:19 EST 2016 called forecast forecast.pl. forceunkey
+Sat Mar  5 05:30:03 EST 2016 calling voice_id_play.pl. forcekey.  
+Sat Mar  5 05:30:03 EST 2016 playing /usr/bin/play /home/w2tr/voiceidfiles/This_Is_Ed_K2MP_Identifying_For_The_WR2AHL_Repeater.wav
+Sat Mar  5 05:30:13 EST 2016 played /usr/bin/play /home/w2tr/voiceidfiles/This_Is_Ed_K2MP_Identifying_For_The_WR2AHL_Repeater.wav
+Sat Mar  5 05:30:13 EST 2016 called voice_id_play.pl. forceunkey
+Sat Mar  5 05:45:02 EST 2016 calling weather weather.pl. forcekey  
+Sat Mar  5 05:45:04 EST 2016 playing /usr/bin/play /home/irlp/jfall/weather/rochweather.wav
+Sat Mar  5 05:45:11 EST 2016 played /usr/bin/play /home/irlp/jfall/weather/rochweather.wav
+Sat Mar  5 05:45:11 EST 2016 called weather weather.pl. forceunkey
+Sat Mar  5 06:00:03 EST 2016 calling cwtime.pl. Forcekey
+Sat Mar  5 06:00:03 EST 2016 playing Playing CW for hour 0600
+Sat Mar  5 06:00:08 EST 2016 played Played CW for hour 0600
+Sat Mar  5 06:00:08 EST 2016 called cwtime. forceunkey
+Sat Mar  5 06:15:01 EST 2016  calling forecast forecast.pl. forcekey.  
+Sat Mar  5 06:15:04 EST 2016 playing /usr/bin/play /home/irlp/jfall/weatherforecast/weatherforecast.wav
+Sat Mar  5 06:15:16 EST 2016 played /usr/bin/play /home/irlp/jfall/weatherforecast/weatherforecast.wav
+Sat Mar  5 06:15:17 EST 2016 called forecast forecast.pl. forceunkey
+Sat Mar  5 06:25:02 EST 2016 calling weathertoday weathertoday.pl. forcekey  
+Sat Mar  5 06:25:07 EST 2016 playing /usr/bin/play /home/irlp/jfall/weathertoday/weathertoday.wav
+Sat Mar  5 06:25:20 EST 2016 played /usr/bin/play /home/irlp/jfall/weathertoday/weathertoday.wav
+Sat Mar  5 06:25:20 EST 2016 playing /usr/bin/play /home/irlp/jfall/weathertoday/weather_by.wav
+Sat Mar  5 06:25:25 EST 2016 played /usr/bin/play /home/irlp/jfall/weathertoday/weather_by.wav
+Sat Mar  5 06:25:27 EST 2016 called weathertoday weathertoday.pl. forceunkey
+Sat Mar  5 06:30:02 EST 2016 calling voice_id_play.pl. forcekey.  
+Sat Mar  5 06:30:02 EST 2016 playing /usr/bin/play /home/w2tr/voiceidfiles/Computer_Identify_Please.wav
+Sat Mar  5 06:30:13 EST 2016 played /usr/bin/play /home/w2tr/voiceidfiles/Computer_Identify_Please.wav
+Sat Mar  5 06:30:13 EST 2016 called voice_id_play.pl. forceunkey
+Sat Mar  5 06:45:03 EST 2016 calling weather weather.pl. forcekey  
+Sat Mar  5 06:45:05 EST 2016 playing /usr/bin/play /home/irlp/jfall/weather/rochweather.wav
+Sat Mar  5 06:45:11 EST 2016 played /usr/bin/play /home/irlp/jfall/weather/rochweather.wav
+Sat Mar  5 06:45:11 EST 2016 called weather weather.pl. forceunkey
+Sat Mar  5 07:00:02 EST 2016 calling cwtime.pl. Forcekey
+Sat Mar  5 07:00:02 EST 2016 playing Playing CW for hour 0700
+Sat Mar  5 07:00:09 EST 2016 played Played CW for hour 0700
+Sat Mar  5 07:00:09 EST 2016 called cwtime. forceunkey
+Sat Mar  5 07:15:02 EST 2016  calling forecast forecast.pl. forcekey.  
+Sat Mar  5 07:15:08 EST 2016 playing /usr/bin/play /home/irlp/jfall/weatherforecast/weatherforecast.wav
+Sat Mar  5 07:15:20 EST 2016 played /usr/bin/play /home/irlp/jfall/weatherforecast/weatherforecast.wav
+Sat Mar  5 07:15:21 EST 2016 called forecast forecast.pl. forceunkey
+Sat Mar  5 07:20:37 EST 2016 playing alertsounds/1claxon1.wav
+Sat Mar  5 07:20:40 EST 2016 played alertsounds/1claxon1.wav
+Sat Mar  5 07:20:40 EST 2016 playing /home/irlp/jfall/monroecounty/incident.wav
+Sat Mar  5 07:20:52 EST 2016 played /home/irlp/jfall/monroecounty/incident.wav
+Sat Mar  5 07:25:02 EST 2016 calling weathertoday weathertoday.pl. forcekey  
+Sat Mar  5 07:25:32 EST 2016 playing /usr/bin/play /home/irlp/jfall/weathertoday/weathertoday.wav
+Sat Mar  5 07:25:45 EST 2016 played /usr/bin/play /home/irlp/jfall/weathertoday/weathertoday.wav
+Sat Mar  5 07:25:45 EST 2016 playing /usr/bin/play /home/irlp/jfall/weathertoday/weather_by.wav
+Sat Mar  5 07:25:50 EST 2016 played /usr/bin/play /home/irlp/jfall/weathertoday/weather_by.wav
+Sat Mar  5 07:25:52 EST 2016 called weathertoday weathertoday.pl. forceunkey
+Sat Mar  5 07:30:02 EST 2016 calling voice_id_play.pl. forcekey.  
+Sat Mar  5 07:30:02 EST 2016 playing /usr/bin/play /home/w2tr/voiceidfiles/K2RJ_This_Is_WR2AHL.wav
+Sat Mar  5 07:30:08 EST 2016 played /usr/bin/play /home/w2tr/voiceidfiles/K2RJ_This_Is_WR2AHL.wav
+Sat Mar  5 07:30:08 EST 2016 called voice_id_play.pl. forceunkey
+Sat Mar  5 07:45:03 EST 2016 calling weather weather.pl. forcekey  
+Sat Mar  5 07:45:05 EST 2016 playing /usr/bin/play /home/irlp/jfall/weather/rochweather.wav
+Sat Mar  5 07:45:12 EST 2016 played /usr/bin/play /home/irlp/jfall/weather/rochweather.wav
+Sat Mar  5 07:45:12 EST 2016 called weather weather.pl. forceunkey
+Sat Mar  5 08:00:02 EST 2016 calling cwtime.pl. Forcekey
+Sat Mar  5 08:00:02 EST 2016 playing Playing CW for hour 0800
+Sat Mar  5 08:00:08 EST 2016 played Played CW for hour 0800
+Sat Mar  5 08:00:08 EST 2016 called cwtime. forceunkey
+Sat Mar  5 08:15:01 EST 2016  calling forecast forecast.pl. forcekey.  
+Sat Mar  5 08:15:05 EST 2016 playing /usr/bin/play /home/irlp/jfall/weatherforecast/weatherforecast.wav
+Sat Mar  5 08:15:16 EST 2016 played /usr/bin/play /home/irlp/jfall/weatherforecast/weatherforecast.wav
+Sat Mar  5 08:15:17 EST 2016 called forecast forecast.pl. forceunkey
+Sat Mar  5 08:25:02 EST 2016 calling weathertoday weathertoday.pl. forcekey  
+Sat Mar  5 08:25:07 EST 2016 playing /usr/bin/play /home/irlp/jfall/weathertoday/weathertoday.wav
+Sat Mar  5 08:25:20 EST 2016 played /usr/bin/play /home/irlp/jfall/weathertoday/weathertoday.wav
+Sat Mar  5 08:25:20 EST 2016 playing /usr/bin/play /home/irlp/jfall/weathertoday/weather_by.wav
+Sat Mar  5 08:25:25 EST 2016 played /usr/bin/play /home/irlp/jfall/weathertoday/weather_by.wav
+Sat Mar  5 08:25:27 EST 2016 called weathertoday weathertoday.pl. forceunkey
+Sat Mar  5 08:30:02 EST 2016 calling voice_id_play.pl. forcekey.  
+Sat Mar  5 08:30:02 EST 2016 playing /usr/bin/play /home/w2tr/voiceidfiles/This_Is_The_WR2AHL_Repeater.wav
+Sat Mar  5 08:30:09 EST 2016 played /usr/bin/play /home/w2tr/voiceidfiles/This_Is_The_WR2AHL_Repeater.wav
+Sat Mar  5 08:30:09 EST 2016 called voice_id_play.pl. forceunkey
+Sat Mar  5 08:45:02 EST 2016 calling weather weather.pl. forcekey  
+Sat Mar  5 08:45:04 EST 2016 playing /usr/bin/play /home/irlp/jfall/weather/rochweather.wav
+Sat Mar  5 08:45:11 EST 2016 played /usr/bin/play /home/irlp/jfall/weather/rochweather.wav
+Sat Mar  5 08:45:11 EST 2016 called weather weather.pl. forceunkey
+Sat Mar  5 09:00:02 EST 2016 calling cwtime.pl. Forcekey
+Sat Mar  5 09:00:02 EST 2016 playing Playing CW for hour 0900
+Sat Mar  5 09:00:08 EST 2016 played Played CW for hour 0900
+Sat Mar  5 09:00:08 EST 2016 called cwtime. forceunkey
+Sat Mar  5 09:15:01 EST 2016  calling forecast forecast.pl. forcekey.  
+Sat Mar  5 09:15:05 EST 2016 playing /usr/bin/play /home/irlp/jfall/weatherforecast/weatherforecast.wav
+Sat Mar  5 09:15:17 EST 2016 played /usr/bin/play /home/irlp/jfall/weatherforecast/weatherforecast.wav
+Sat Mar  5 09:15:18 EST 2016 called forecast forecast.pl. forceunkey
+Sat Mar  5 09:25:02 EST 2016 calling weathertoday weathertoday.pl. forcekey  
+Sat Mar  5 09:25:07 EST 2016 playing /usr/bin/play /home/irlp/jfall/weathertoday/weathertoday.wav
+Sat Mar  5 09:25:20 EST 2016 played /usr/bin/play /home/irlp/jfall/weathertoday/weathertoday.wav
+Sat Mar  5 09:25:20 EST 2016 playing /usr/bin/play /home/irlp/jfall/weathertoday/weather_by.wav
+Sat Mar  5 09:25:25 EST 2016 played /usr/bin/play /home/irlp/jfall/weathertoday/weather_by.wav
+Sat Mar  5 09:25:27 EST 2016 called weathertoday weathertoday.pl. forceunkey
+Sat Mar  5 09:30:02 EST 2016 calling voice_id_play.pl. forcekey.  
+Sat Mar  5 09:30:02 EST 2016 playing /usr/bin/play /home/w2tr/voiceidfiles/K2RJ_This_Is_WR2AHL.wav
+Sat Mar  5 09:30:08 EST 2016 played /usr/bin/play /home/w2tr/voiceidfiles/K2RJ_This_Is_WR2AHL.wav
+Sat Mar  5 09:30:08 EST 2016 called voice_id_play.pl. forceunkey
+Sat Mar  5 09:45:02 EST 2016 calling weather weather.pl. forcekey  
+Sat Mar  5 09:45:04 EST 2016 playing /usr/bin/play /home/irlp/jfall/weather/rochweather.wav
+Sat Mar  5 09:45:12 EST 2016 played /usr/bin/play /home/irlp/jfall/weather/rochweather.wav
+Sat Mar  5 09:45:12 EST 2016 called weather weather.pl. forceunkey
+Sat Mar  5 10:00:02 EST 2016 calling cwtime.pl. Forcekey
+Sat Mar  5 10:00:02 EST 2016 playing Playing CW for hour 1000
+Sat Mar  5 10:00:08 EST 2016 played Played CW for hour 1000
+Sat Mar  5 10:00:08 EST 2016 called cwtime. forceunkey
+Sat Mar  5 10:15:01 EST 2016  calling forecast forecast.pl. forcekey.  
+Sat Mar  5 10:15:10 EST 2016 playing /usr/bin/play /home/irlp/jfall/weatherforecast/weatherforecast.wav
+Sat Mar  5 10:15:22 EST 2016 played /usr/bin/play /home/irlp/jfall/weatherforecast/weatherforecast.wav
+Sat Mar  5 10:15:23 EST 2016 called forecast forecast.pl. forceunkey
+Sat Mar  5 10:25:02 EST 2016 weathertoday.pl not called  due to COS activity
+Sat Mar  5 10:30:02 EST 2016 calling voice_id_play.pl. forcekey.  
+Sat Mar  5 10:30:02 EST 2016 playing /usr/bin/play /home/w2tr/voiceidfiles/JDA_WR2AHL_Repeater.wav
+Sat Mar  5 10:30:08 EST 2016 played /usr/bin/play /home/w2tr/voiceidfiles/JDA_WR2AHL_Repeater.wav
+Sat Mar  5 10:30:08 EST 2016 called voice_id_play.pl. forceunkey
+Sat Mar  5 10:45:02 EST 2016 calling weather weather.pl. forcekey  
+Sat Mar  5 10:45:04 EST 2016 playing /usr/bin/play /home/irlp/jfall/weather/rochweather.wav
+Sat Mar  5 10:45:11 EST 2016 played /usr/bin/play /home/irlp/jfall/weather/rochweather.wav
+Sat Mar  5 10:45:11 EST 2016 called weather weather.pl. forceunkey
+Sat Mar  5 11:00:02 EST 2016 calling cwtime.pl. Forcekey
+Sat Mar  5 11:00:02 EST 2016 playing Playing CW for hour 1100
+Sat Mar  5 11:00:08 EST 2016 played Played CW for hour 1100
+Sat Mar  5 11:00:08 EST 2016 called cwtime. forceunkey
+Sat Mar  5 11:16:30 EST 2016 playing alertsounds/alert3.wav
+Sat Mar  5 11:16:33 EST 2016 played alertsounds/alert3.wav
+Sat Mar  5 11:16:33 EST 2016 playing /home/irlp/jfall/monroecounty/incident.wav
+Sat Mar  5 11:16:47 EST 2016 played /home/irlp/jfall/monroecounty/incident.wav
+Sat Mar  5 11:25:02 EST 2016 calling weathertoday weathertoday.pl. forcekey  
+Sat Mar  5 11:25:07 EST 2016 playing /usr/bin/play /home/irlp/jfall/weathertoday/weathertoday.wav
+Sat Mar  5 11:25:21 EST 2016 played /usr/bin/play /home/irlp/jfall/weathertoday/weathertoday.wav
+Sat Mar  5 11:25:21 EST 2016 playing /usr/bin/play /home/irlp/jfall/weathertoday/weather_by.wav
+Sat Mar  5 11:25:26 EST 2016 played /usr/bin/play /home/irlp/jfall/weathertoday/weather_by.wav
+Sat Mar  5 11:25:28 EST 2016 called weathertoday weathertoday.pl. forceunkey
+Sat Mar  5 11:30:02 EST 2016 calling voice_id_play.pl. forcekey.  
+Sat Mar  5 11:30:02 EST 2016 playing /usr/bin/play /home/w2tr/voiceidfiles/K2MP_This_Is_WR2AHL_1.wav
+Sat Mar  5 11:30:08 EST 2016 played /usr/bin/play /home/w2tr/voiceidfiles/K2MP_This_Is_WR2AHL_1.wav
+Sat Mar  5 11:30:08 EST 2016 called voice_id_play.pl. forceunkey
+Sat Mar  5 11:45:03 EST 2016 calling weather weather.pl. forcekey  
+Sat Mar  5 11:45:05 EST 2016 playing /usr/bin/play /home/irlp/jfall/weather/rochweather.wav
+Sat Mar  5 11:45:12 EST 2016 played /usr/bin/play /home/irlp/jfall/weather/rochweather.wav
+Sat Mar  5 11:45:12 EST 2016 called weather weather.pl. forceunkey
+Sat Mar  5 12:00:02 EST 2016 calling cwtime.pl. Forcekey
+Sat Mar  5 12:00:02 EST 2016 playing Playing CW for hour 1200
+Sat Mar  5 12:00:08 EST 2016 played Played CW for hour 1200
+Sat Mar  5 12:00:08 EST 2016 called cwtime. forceunkey
+Sat Mar  5 12:23:30 EST 2016 playing alertsounds/alert3.wav
+Sat Mar  5 12:23:32 EST 2016 played alertsounds/alert3.wav
+Sat Mar  5 12:23:32 EST 2016 playing /home/irlp/jfall/monroecounty/incident.wav
+Sat Mar  5 12:23:48 EST 2016 played /home/irlp/jfall/monroecounty/incident.wav
+Sat Mar  5 12:30:03 EST 2016 calling voice_id_play.pl. forcekey.  
+Sat Mar  5 12:30:03 EST 2016 playing /usr/bin/play /home/w2tr/voiceidfiles/JDA_WR2AHL_Repeater.wav
+Sat Mar  5 12:30:09 EST 2016 played /usr/bin/play /home/w2tr/voiceidfiles/JDA_WR2AHL_Repeater.wav
+Sat Mar  5 12:30:09 EST 2016 called voice_id_play.pl. forceunkey
+Sat Mar  5 12:38:29 EST 2016 playing alertsounds/alert3.wav
+Sat Mar  5 12:38:31 EST 2016 played alertsounds/alert3.wav
+Sat Mar  5 12:38:31 EST 2016 playing /home/irlp/jfall/monroecounty/incident.wav
+Sat Mar  5 12:38:46 EST 2016 played /home/irlp/jfall/monroecounty/incident.wav
+Sat Mar  5 12:45:02 EST 2016 calling weather weather.pl. forcekey  
+Sat Mar  5 12:45:04 EST 2016 playing /usr/bin/play /home/irlp/jfall/weather/rochweather.wav
+Sat Mar  5 12:45:10 EST 2016 played /usr/bin/play /home/irlp/jfall/weather/rochweather.wav
+Sat Mar  5 12:45:10 EST 2016 called weather weather.pl. forceunkey
+Sat Mar  5 13:00:02 EST 2016 calling cwtime.pl. Forcekey
+Sat Mar  5 13:00:02 EST 2016 playing Playing CW for hour 1300
+Sat Mar  5 13:00:08 EST 2016 played Played CW for hour 1300
+Sat Mar  5 13:00:08 EST 2016 called cwtime. forceunkey
