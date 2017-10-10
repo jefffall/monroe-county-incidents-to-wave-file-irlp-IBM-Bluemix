@@ -731,7 +731,7 @@ print "incident string = \n\n$incident_string\n\n\n";
 
 
 # 10.24.2015 IBM Bluemix text to voice.
-$translate = `curl -u "d8094d34-579e-4386-9553-240f715978d3":"lc6lF3QjzqzC" -X POST --header "Content-Type: application/json" --header "Accept: audio/wav" --data "{\\"text\\":\\"$incident_string\\"}"  "https://stream.watsonplatform.net/text-to-speech/api/v1/synthesize" > /home/irlp/jfall/monroecounty/incident.wav`;
+$translate = `curl -u "YourSubscription":"YourKey" -X POST --header "Content-Type: application/json" --header "Accept: audio/wav" --data "{\\"text\\":\\"$incident_string\\"}"  "https://stream.watsonplatform.net/text-to-speech/api/v1/synthesize" > /home/irlp/jfall/monroecounty/incident.wav`;
 
 }
 
